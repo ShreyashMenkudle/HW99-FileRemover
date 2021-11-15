@@ -8,7 +8,7 @@ def main():
     deleted_folders_count = 0
     deleted_files_count = 0
 
-    path = "/PATH_TO_DELETE"
+    path = input("Enter the file/folder name which you have to clean:-")
 
     days = 30
 
